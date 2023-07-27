@@ -1,8 +1,4 @@
 # Project4
-<<<<<<< HEAD
-=======
-
->>>>>>> 6946b584cb7f4cce1eb495fabaa8eb575bb2f4fd
 <br>
 <b>As our world faces a bellowing pandemic, we experience the repercussions in various aspects of our lives. In the current job market, those of us looking to start or change our careers are met with the question of "How much could I possibly make if I were to enter this field?" Our group aimed to help individuals answer this question before determining which field they would go into.
   
